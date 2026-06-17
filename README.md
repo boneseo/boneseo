@@ -8,7 +8,7 @@ Specialized in **Telegram Bot Development** | Creating UserBot modules for Herok
 
 - 🤖 **Main Focus:** Telegram UserBot Modules (Heroku, Hikka, Legacy)
 - 📱 **Secondary:** iPhone Jailbreak Tweaks Development
-- 🚀 **Currently:** Building automation solutions for Telegram
+- 🚀 **Currently:** Специализируюсь на telegram ботах и их улучшением
 
 ---
 
@@ -24,7 +24,7 @@ Specialized in **Telegram Bot Development** | Creating UserBot modules for Herok
 
 ### 🛠️ What I Do
 
-- 🤖 **Создаю модули на юзерботы Heroku, Hikka, Legacy** - автоматизация, настройка, развертывание
+- 🤖 **Создаю модули на юзерботы Heroku, Hikka, Legacy**
 - 🎨 **Jailbreak Tweaks** - iPhone customization & tweaks development
 
 ---
